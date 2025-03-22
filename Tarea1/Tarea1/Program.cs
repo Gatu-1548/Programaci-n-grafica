@@ -27,47 +27,71 @@ public class UShapeWindow : GameWindow
             -0.3f, -0.7f, -0.5f,  // 11
         };
     */
-    private readonly float[] _vertices = 
+    private readonly float[] _vertices =
     {
-        //cubo izquierdo
-    -0.5f,  0.5f, 0.0f,    
-    -0.4f,  0.5f, 0.0f,   
-    -0.4f, -0.5f, 0.0f,     
-    -0.5f, -0.5f, 0.0f,    
 
-    -0.4f,  0.6f, 0.0f,    
-    -0.3f,  0.6f, 0.0f,    
-    -0.3f, -0.4f, 0.0f,     
-    -0.4f, -0.4f, 0.0f,    
+    // Posiciones (x, y, z)
+    // Primer cubo (lado izquierdo)
+    -0.5f,  0.5f, 0.0f,    // Vértice 0 
+    -0.4f,  0.5f, 0.0f,    // Vértice 1 
+    -0.4f, -0.5f, 0.0f,    // Vértice 2 
+    -0.5f, -0.5f, 0.0f,    // Vértice 3 
 
-    //cubo derecha
-     0.3f,  0.5f, 0.0f,    
-     0.4f,  0.5f, 0.0f,     
-     0.4f, -0.5f, 0.0f,    
-     0.3f, -0.5f, 0.0f,     
+    -0.4f,  0.6f, 0.0f,    // Vértice 4 
+    -0.3f,  0.6f, 0.0f,    // Vértice 5 
+    -0.3f, -0.4f, 0.0f,    // Vértice 6 
+    -0.4f, -0.4f, 0.0f,    // Vértice 7 
 
-     0.4f,  0.6f, 0.0f,   
-     0.5f,  0.6f, 0.0f,    
-     0.5f, -0.4f, 0.0f,     
-     0.4f, -0.4f, 0.0f,   
+    // Segundo cubo (lado derecho)
+     0.3f,  0.5f, 0.0f,    // Vértice 8 
+     0.4f,  0.5f, 0.0f,    // Vértice 9 
+     0.4f, -0.5f, 0.0f,    // Vértice 10 
+     0.3f, -0.5f, 0.0f,    // Vértice 11 
 
-     //cubo abajo
-    -0.5f, -0.5f, 0.0f,     
-     0.4f, -0.5f, 0.0f,    
-     0.4f, -0.6f, 0.0f,    
-    -0.5f, -0.6f, 0.0f,    
+     0.4f,  0.6f, 0.0f,    // Vértice 12 
+     0.5f,  0.6f, 0.0f,    // Vértice 13 
+     0.5f, -0.4f, 0.0f,    // Vértice 14 
+     0.4f, -0.4f, 0.0f,    // Vértice 15 
 
-    -0.4f, -0.4f, 0.0f,    
-     0.5f, -0.4f, 0.0f,    
-     0.5f, -0.5f, 0.0f,    
-    -0.4f, -0.5f, 0.0f,    
+     // Tercer cubo (parte inferior)
+    -0.5f, -0.5f, 0.0f,    // Vértice 16 
+     0.4f, -0.5f, 0.0f,    // Vértice 17
+     0.4f, -0.6f, 0.0f,    // Vértice 18 
+    -0.5f, -0.6f, 0.0f,    // Vértice 19 
+
+    -0.4f, -0.4f, 0.0f,    // Vértice 20 
+     0.5f, -0.4f, 0.0f,    // Vértice 21 
+     0.5f, -0.5f, 0.0f,    // Vértice 22 
+    -0.4f, -0.5f, 0.0f,    // Vértice 23
 
 
     };
 
     private readonly uint[] _indices =
 {
-     
+        /*
+    // Conectar la parte frontal
+    0, 1,  // Lado izquierdo
+    1, 5,  // Bajando al extremo inferior izquierdo
+    5, 4,  // Conectando base curva
+    4, 3,  // Subiendo lado derecho
+    3, 2,  // Lado derecho
+
+    // Conectar la parte trasera
+    6, 7,  // Lado izquierdo trasero
+    7, 11, // Bajando al extremo inferior izquierdo trasero
+    11, 10, // Conectando base curva trasera
+    10, 9, // Subiendo lado derecho trasero
+    9, 8,  // Lado derecho trasero
+
+    // Conectar frente con atrás
+    0, 6,  // Conectar parte superior izquierda
+    1, 7,  // Conectar lado izquierdo
+    2, 8,  // Conectar parte superior derecha
+    3, 9,  // Conectar lado derecho
+    4, 10, // Conectar base curva derecha
+    5, 11  // Conectar base curva izquierda
+        */
     0,1,
     1,2,
     2,3,
@@ -112,13 +136,12 @@ public class UShapeWindow : GameWindow
      19,23,
      17,21,
      18,22,
-
 };
 
     public UShapeWindow() : base(GameWindowSettings.Default, new NativeWindowSettings
     {
         Size = new Vector2i(800, 600),
-        Title = "3D U",
+        Title = "3D U Shape",
         Flags = ContextFlags.ForwardCompatible
     })
     { }
@@ -144,10 +167,10 @@ public class UShapeWindow : GameWindow
         _shaderProgram = CreateShader();
         GL.UseProgram(_shaderProgram);
 
-        
+        // Matriz de vista (cámara)
         _view = Matrix4.LookAt(new Vector3(0f, 0f, 3f), Vector3.Zero, Vector3.UnitY);
 
-        
+        // Matriz de proyección (perspectiva)
         _projection = Matrix4.CreatePerspectiveFieldOfView(MathHelper.DegreesToRadians(45f), 800f / 600f, 0.1f, 100f);
     }
 
@@ -159,7 +182,7 @@ public class UShapeWindow : GameWindow
 
         GL.UseProgram(_shaderProgram);
 
-        
+        // Enviar matrices al shader
         GL.UniformMatrix4(GL.GetUniformLocation(_shaderProgram, "view"), false, ref _view);
         GL.UniformMatrix4(GL.GetUniformLocation(_shaderProgram, "projection"), false, ref _projection);
 

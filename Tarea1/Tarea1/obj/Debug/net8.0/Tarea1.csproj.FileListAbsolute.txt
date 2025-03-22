@@ -29,3 +29,4 @@ C:\Users\Usuario\source\repos\Tarea1\Tarea1\obj\Debug\net8.0\refint\Tarea1.dll
 C:\Users\Usuario\source\repos\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.pdb
 C:\Users\Usuario\source\repos\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\Tarea1\Tarea1\obj\Debug\net8.0\ref\Tarea1.dll
+C:\Users\Usuario\source\repos\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.sourcelink.json
