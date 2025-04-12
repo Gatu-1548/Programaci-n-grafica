@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|c:\\users\\usuario\\source\\repos\\tarea4._1\\tarea4._1\\cara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|solutionrelative:tarea4._1\\cara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|c:\\users\\usuario\\source\\repos\\tarea4._1\\tarea4._1\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|solutionrelative:tarea4._1\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|c:\\users\\usuario\\source\\repos\\tarea4._1\\tarea4._1\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|solutionrelative:tarea4._1\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|c:\\users\\usuario\\source\\repos\\tarea4._1\\tarea4._1\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|solutionrelative:tarea4._1\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|c:\\users\\usuario\\source\\repos\\tarea4._1\\tarea4._1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|solutionrelative:tarea4._1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|c:\\users\\usuario\\source\\repos\\tarea4._1\\tarea4._1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|solutionrelative:tarea4._1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|c:\\users\\usuario\\source\\repos\\tarea4._1\\tarea4._1\\partes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59C58DF6-7A8F-4A63-AD2C-74D49E2EA10C}|Tarea4._1\\Tarea4._1.csproj|solutionrelative:tarea4._1\\partes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "partes.txt",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\partes.txt",
+              "RelativeDocumentMoniker": "Tarea4._1\\partes.txt",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\partes.txt",
+              "RelativeToolTip": "Tarea4._1\\partes.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-12T04:38:43.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Game.cs",
+              "RelativeDocumentMoniker": "Tarea4._1\\Game.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Game.cs*",
+              "RelativeToolTip": "Tarea4._1\\Game.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:03:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Escenario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Escenario.cs",
+              "RelativeDocumentMoniker": "Tarea4._1\\Escenario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Escenario.cs",
+              "RelativeToolTip": "Tarea4._1\\Escenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:55:48.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Objeto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Objeto.cs",
+              "RelativeDocumentMoniker": "Tarea4._1\\Objeto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Objeto.cs*",
+              "RelativeToolTip": "Tarea4._1\\Objeto.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAIA6wDIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:54:26.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parte.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Parte.cs",
+              "RelativeDocumentMoniker": "Tarea4._1\\Parte.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Parte.cs*",
+              "RelativeToolTip": "Tarea4._1\\Parte.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:53:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cara.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Cara.cs",
+              "RelativeDocumentMoniker": "Tarea4._1\\Cara.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Cara.cs",
+              "RelativeToolTip": "Tarea4._1\\Cara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:51:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea4._1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Tarea4._1\\Tarea4._1\\Program.cs",
+              "RelativeToolTip": "Tarea4._1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:49:55.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

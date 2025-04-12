@@ -61,9 +61,9 @@ namespace Tarea3._1
 
             objetos = new List<Objeto>
             {
-                 new Objeto(new Vector3(-1.4f, 1.0f, 1.0f), vertices),
+                // new Objeto(new Vector3(-1.4f, 1.0f, 1.0f), vertices),
                 new Objeto(new Vector3(0.0f, 0.0f, 0f), vertices),
-                new Objeto(new Vector3(1.3f, 0.0f, 0f), vertices)
+                //new Objeto(new Vector3(1.3f, 0.0f, 0f), vertices)
             };
         }
 
