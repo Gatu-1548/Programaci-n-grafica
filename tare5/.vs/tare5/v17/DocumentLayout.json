@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|solutionrelative:tare5\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|c:\\users\\usuario\\source\\repos\\tare5\\tare5\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|solutionrelative:tare5\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|c:\\users\\usuario\\source\\repos\\tare5\\tare5\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|solutionrelative:tare5\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|c:\\users\\usuario\\source\\repos\\tare5\\tare5\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|solutionrelative:tare5\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|c:\\users\\usuario\\source\\repos\\tare5\\tare5\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|solutionrelative:tare5\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|c:\\users\\usuario\\source\\repos\\tare5\\tare5\\carajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|c:\\users\\usuario\\source\\repos\\tare5\\tare5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|solutionrelative:tare5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|c:\\users\\usuario\\source\\repos\\tare5\\tare5\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453A6C86-7A98-4D60-8C00-3BDC509805E2}|tare5\\tare5.csproj|solutionrelative:tare5\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,47 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CaraJson.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\CaraJson.cs",
               "RelativeDocumentMoniker": "tare5\\CaraJson.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\CaraJson.cs",
               "RelativeToolTip": "tare5\\CaraJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:34:30.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Escenario.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Escenario.cs",
               "RelativeDocumentMoniker": "tare5\\Escenario.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Escenario.cs",
               "RelativeToolTip": "tare5\\Escenario.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwBUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:29:51.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Game.cs",
               "RelativeDocumentMoniker": "tare5\\Game.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Game.cs",
               "RelativeToolTip": "tare5\\Game.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowCcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:29:47.521Z",
               "EditorCaption": ""
@@ -91,49 +87,53 @@
               "RelativeDocumentMoniker": "tare5\\Objeto.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Objeto.cs",
               "RelativeToolTip": "tare5\\Objeto.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAzwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:29:38.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Parte.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Parte.cs",
               "RelativeDocumentMoniker": "tare5\\Parte.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Parte.cs",
               "RelativeToolTip": "tare5\\Parte.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAwwAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:29:11.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Cara.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Cara.cs",
               "RelativeDocumentMoniker": "tare5\\Cara.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Cara.cs",
               "RelativeToolTip": "tare5\\Cara.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:29:02.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Program.cs",
               "RelativeDocumentMoniker": "tare5\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tare5\\tare5\\Program.cs",
               "RelativeToolTip": "tare5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:24:07.282Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

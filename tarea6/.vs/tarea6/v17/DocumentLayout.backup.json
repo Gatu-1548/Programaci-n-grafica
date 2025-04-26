@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\tarea6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\carasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\carasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\cara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\cara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\parte_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\parte_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\parte_2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\parte_2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\parte_3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\parte_3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\vertices_convertidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\vertices_convertidos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|c:\\users\\usuario\\source\\repos\\tarea6\\tarea6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE5BB13-2FAB-4956-B66E-55FF3BD91547}|tarea6\\tarea6.csproj|solutionrelative:tarea6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cara.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Cara.cs",
+              "RelativeDocumentMoniker": "tarea6\\Cara.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Cara.cs",
+              "RelativeToolTip": "tarea6\\Cara.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:13:12.423Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parte.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Parte.cs",
+              "RelativeDocumentMoniker": "tarea6\\Parte.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Parte.cs",
+              "RelativeToolTip": "tarea6\\Parte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:14:07.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "parte_2.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\parte_2.json",
+              "RelativeDocumentMoniker": "tarea6\\parte_2.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\parte_2.json",
+              "RelativeToolTip": "tarea6\\parte_2.json",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAhwJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T20:37:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "parte_1.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\parte_1.json",
+              "RelativeDocumentMoniker": "tarea6\\parte_1.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\parte_1.json",
+              "RelativeToolTip": "tarea6\\parte_1.json",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T20:13:19.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Game.cs",
+              "RelativeDocumentMoniker": "tarea6\\Game.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Game.cs*",
+              "RelativeToolTip": "tarea6\\Game.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:19:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarasJson.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\CarasJson.cs",
+              "RelativeDocumentMoniker": "tarea6\\CarasJson.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\CarasJson.cs",
+              "RelativeToolTip": "tarea6\\CarasJson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:26:12.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Escenario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Escenario.cs",
+              "RelativeDocumentMoniker": "tarea6\\Escenario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Escenario.cs",
+              "RelativeToolTip": "tarea6\\Escenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:52.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Objeto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Objeto.cs",
+              "RelativeDocumentMoniker": "tarea6\\Objeto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Objeto.cs",
+              "RelativeToolTip": "tarea6\\Objeto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:15:03.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "parte_3.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\parte_3.json",
+              "RelativeDocumentMoniker": "tarea6\\parte_3.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\parte_3.json",
+              "RelativeToolTip": "tarea6\\parte_3.json",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAhwJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T20:38:02.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vertices_convertidos.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\vertices_convertidos.json",
+              "RelativeDocumentMoniker": "tarea6\\vertices_convertidos.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\vertices_convertidos.json",
+              "RelativeToolTip": "tarea6\\vertices_convertidos.json",
+              "ViewState": "AgIAAJ8BAAAAzGsor6EswKcBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T19:07:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Program.cs",
+              "RelativeDocumentMoniker": "tarea6\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\tarea6\\tarea6\\Program.cs",
+              "RelativeToolTip": "tarea6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:00:05.432Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
